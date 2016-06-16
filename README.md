@@ -10,6 +10,7 @@
   * [Framework](#framework)
   * [Helpers](#helpers)
   * [Utilities](#utilities)
+  * [Boilerplates and Starters](#boilerplates-and-starters)
 * [Newsletter](#newsletter)
 * [Videos](videos)
 * [Articles](#articles)
@@ -32,7 +33,7 @@
 * [AngularFire2](https://github.com/angular/angularfire2) - The official library for Firebase and Angular 2.
 * [PolymerFire](https://github.com/firebase/polymerfire)	- The officially supported Polymer bindings for the Firebase platform.
 * [ReactFire](https://github.com/firebase/reactfire)	- The officially supported React binding for the Firebase Realtime Database.
-* [Re-base](https://github.com/tylermcginnis/re-base)	- A Relay inspired library for building React.js + Firebase applications. 
+* [Re-base](https://github.com/tylermcginnis/re-base)	- A Relay inspired library for building React.js + Firebase applications.
 * [EmberFire](https://github.com/firebase/emberfire) - The officially supported Ember binding for the Firebase Realtime Database and Authentication.
 * [BackboneFire](https://github.com/firebase/backbonefire)	- The officially supported Backbone binding for the Firebase Realtime Database.
 
@@ -73,6 +74,10 @@
 * [Firebase Adventures](https://github.com/juarezpaf/firebase-adventures) - Firebase Adventures is a journey about how to use Firebase in different ways to give you the ability to build extraordinary cross-platform apps.
 
 ## Who to Follow
+* Firebase [@Firebase](https://twitter.com/firebase)
+* James Tamplin [@JamesTamplin](https://twitter.com/jamestamplin)
+* Andrew Lee [@startupandrew](https://twitter.com/startupandrew)
+* Michael McDonald [@asciimike](https://twitter.com/asciimike)
 * Juarez Filho [@juarezpaf](https://twitter.com/juarezpaf)
 
 ## Contributing
