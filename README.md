@@ -1,6 +1,7 @@
 [![awesome firebase](awesome-firebase.jpg)](https://github.com/afonsopacifer/awesome-firebase/)
 
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-firebase.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-firebase)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of [firebase](https://firebase.google.com/).
 
