@@ -52,6 +52,10 @@
 * [Firebase Import](https://github.com/firebase/firebase-import) -	A utility which helps import large JSON files into the Firebase Realtime Database.
 * [Flashlight](https://github.com/firebase/flashlight) -	A pluggable integration with ElasticSearch to provide advanced content searches in the Firebase Realtime Database.
 
+### Boilerplates and Starters
+* [Firebase 3.0 Starter using React Redux](https://github.com/douglascorrea/react-hot-redux-firebase-starter)
+
+
 ## Newsletter
 * [Best of Firebase](http://bestoffirebase.com/) - The free, monthly curated newsletter of the best Firebase news, articles, projects, and more.
 * [Real Time Weekly](http://realtimeweekly.co/) - Weekly updates on the latest news in WebRTC and Real Time messaging for web and mobile applications.
