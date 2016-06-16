@@ -72,7 +72,7 @@
 * Juarez Filho [@juarezpaf](https://twitter.com/juarezpaf)
 
 ## Contributing
-Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-firebase/blob/master/contributing.md).
+Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-firebase/blob/master/CONTRIBUTING.md).
 
 ## License
-[MIT License](https://github.com/afonsopacifer/awesome-firebase/blob/master/license.md) © [Afonso Pacifer](http://afonsopacifer.com/)
+[MIT License](https://github.com/afonsopacifer/awesome-firebase/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.com/)
