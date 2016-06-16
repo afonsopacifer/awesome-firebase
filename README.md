@@ -32,6 +32,7 @@
 * [AngularFire2](https://github.com/angular/angularfire2) - The official library for Firebase and Angular 2.
 * [PolymerFire](https://github.com/firebase/polymerfire)	- The officially supported Polymer bindings for the Firebase platform.
 * [ReactFire](https://github.com/firebase/reactfire)	- The officially supported React binding for the Firebase Realtime Database.
+* [Re-base](https://github.com/tylermcginnis/re-base)	- A Relay inspired library for building React.js + Firebase applications. 
 * [EmberFire](https://github.com/firebase/emberfire) - The officially supported Ember binding for the Firebase Realtime Database and Authentication.
 * [BackboneFire](https://github.com/firebase/backbonefire)	- The officially supported Backbone binding for the Firebase Realtime Database.
 
