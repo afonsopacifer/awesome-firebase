@@ -11,7 +11,7 @@
 * [Utilities](#utilities)
 * [Boilerplates and Starters](#boilerplates-and-starters)
 * [Newsletter](#newsletter)
-* [Videos](videos)
+* [Videos](#videos)
 * [Articles](#articles)
 * [Featured Projects](#featured-projects)
 * [Who to Follow](#who-to-follow)
