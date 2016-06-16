@@ -6,11 +6,10 @@
 
 ## Table of Contents
 * [SDK Documentation](#sdk-documentation)
-* [Libraries](#libraries)
-  * [Framework](#framework)
-  * [Helpers](#helpers)
-  * [Utilities](#utilities)
-  * [Boilerplates and Starters](#boilerplates-and-starters)
+* [Adapters](#adapters)
+* [Helpers](#helpers)
+* [Utilities](#utilities)
+* [Boilerplates and Starters](#boilerplates-and-starters)
 * [Newsletter](#newsletter)
 * [Videos](videos)
 * [Articles](#articles)
@@ -26,9 +25,8 @@
 * [For server](https://firebase.google.com/docs/server/setup)
 * [API Reference](https://firebase.google.com/docs/reference/)
 
-## Libraries
 
-### Framework
+## Adapters
 * [AngularFire](https://github.com/firebase/angularfire)	- The officially supported AngularJS binding for the Firebase Realtime Database and Authentication.
 * [AngularFire2](https://github.com/angular/angularfire2) - The official library for Firebase and Angular 2.
 * [PolymerFire](https://github.com/firebase/polymerfire)	- The officially supported Polymer bindings for the Firebase platform.
@@ -37,7 +35,7 @@
 * [EmberFire](https://github.com/firebase/emberfire) - The officially supported Ember binding for the Firebase Realtime Database and Authentication.
 * [BackboneFire](https://github.com/firebase/backbonefire)	- The officially supported Backbone binding for the Firebase Realtime Database.
 
-### Helpers
+## Helpers
 * [FirebaseUI for IOS](https://github.com/firebase/FirebaseUI-iOS)	- An open-source library of UI components for various Firebase features.
 * [FirebaseUI for Android](https://github.com/firebase/FirebaseUI-Android)	- An open-source library of UI components for various Firebase features.
 * [GeoFire for IOS](https://github.com/firebase/geofire-objc) - An open-source library for the Firebase Realtime Database that adds support for geospatial querying.
@@ -49,11 +47,11 @@
 * [FirebaseJobDispatcher for IOS](https://github.com/firebase/firebase-jobdispatcher-ios)	- An open source library to help you schedule your one-time and periodic jobs easily on mobile devices.
 * [Firepad](https://github.com/firebase/firepad) - An open source library to add a shared editor to a web app.
 
-### Utilities
+## Utilities
 * [Firebase Import](https://github.com/firebase/firebase-import) -	A utility which helps import large JSON files into the Firebase Realtime Database.
 * [Flashlight](https://github.com/firebase/flashlight) -	A pluggable integration with ElasticSearch to provide advanced content searches in the Firebase Realtime Database.
 
-### Boilerplates and Starters
+## Boilerplates and Starters
 * [react-hot-redux-firebase-starter](https://github.com/douglascorrea/react-hot-redux-firebase-starter) - A Firebase 3.0 Starter for using React Redux it includes React Hot Loader 3.0.
 
 ## Newsletter
