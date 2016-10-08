@@ -50,6 +50,7 @@
 ## Utilities
 * [Firebase Import](https://github.com/firebase/firebase-import) -	A utility which helps import large JSON files into the Firebase Realtime Database.
 * [Flashlight](https://github.com/firebase/flashlight) -	A pluggable integration with ElasticSearch to provide advanced content searches in the Firebase Realtime Database.
+* [Firebase Admin](https://firebaseadmin.com/) - Admin User Interface for Firebase
 
 ## Boilerplates and Starters
 * [react-hot-redux-firebase-starter](https://github.com/douglascorrea/react-hot-redux-firebase-starter) - A Firebase 3.0 Starter for using React Redux it includes React Hot Loader 3.0.
