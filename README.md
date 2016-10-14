@@ -9,6 +9,7 @@
 * [Adapters](#adapters)
 * [Helpers](#helpers)
 * [Utilities](#utilities)
+* [GUI Clients](#gui-clients)
 * [Boilerplates and Starters](#boilerplates-and-starters)
 * [Newsletter](#newsletter)
 * [Videos](#videos)
@@ -50,6 +51,9 @@
 ## Utilities
 * [Firebase Import](https://github.com/firebase/firebase-import) -	A utility which helps import large JSON files into the Firebase Realtime Database.
 * [Flashlight](https://github.com/firebase/flashlight) -	A pluggable integration with ElasticSearch to provide advanced content searches in the Firebase Realtime Database.
+
+## GUI Clients
+* [Firebase Admin](https://firebaseadmin.com) -	A cross platform Firebase management tool with Graphical User Interface for Windows, Mac and Linux.
 
 ## Boilerplates and Starters
 * [react-hot-redux-firebase-starter](https://github.com/douglascorrea/react-hot-redux-firebase-starter) - A Firebase 3.0 Starter for using React Redux it includes React Hot Loader 3.0.
