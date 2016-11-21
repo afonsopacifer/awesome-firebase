@@ -48,6 +48,7 @@
 * [FirebaseJobDispatcher for Android](https://github.com/firebase/firebase-jobdispatcher-android)	- An open source library to help you schedule your one-time and periodic jobs easily on mobile devices.
 * [FirebaseJobDispatcher for IOS](https://github.com/firebase/firebase-jobdispatcher-ios)	- An open source library to help you schedule your one-time and periodic jobs easily on mobile devices.
 * [Firepad](https://github.com/firebase/firepad) - An open source library to add a shared editor to a web app.
+* [Querybase](https://github.com/davideast/Querybase) - An open source library to add "where" statements to the JS SDK.
 
 ## Utilities
 * [Firebase Import](https://github.com/firebase/firebase-import) -	A utility which helps import large JSON files into the Firebase Realtime Database.
