@@ -57,6 +57,7 @@
 
 ## GUI Clients
 * [Firebase Admin](https://firebaseadmin.com) -	A cross platform Firebase management tool with Graphical User Interface for Windows, Mac and Linux.
+* [Chat SDK](https://chatsdk.co) - A fully featured open source messaging framework for iOS and Android. 
 
 ## Boilerplates and Starters
 * [react-hot-redux-firebase-starter](https://github.com/douglascorrea/react-hot-redux-firebase-starter) - A Firebase 3.0 Starter for using React Redux it includes React Hot Loader 3.0.
