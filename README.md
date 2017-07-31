@@ -36,6 +36,7 @@
 * [Re-base](https://github.com/tylermcginnis/re-base)	- A Relay inspired library for building React.js + Firebase applications.
 * [EmberFire](https://github.com/firebase/emberfire) - The officially supported Ember binding for the Firebase Realtime Database and Authentication.
 * [BackboneFire](https://github.com/firebase/backbonefire)	- The officially supported Backbone binding for the Firebase Realtime Database.
+* [VueFire](https://github.com/vuejs/vuefire) - Vue.js 1 & 2 binding for Firebase 2 & 3
 
 ## Helpers
 * [FirebaseUI for IOS](https://github.com/firebase/FirebaseUI-iOS)	- An open-source library of UI components for various Firebase features.
