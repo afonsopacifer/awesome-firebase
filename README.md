@@ -27,7 +27,6 @@
 * [For server](https://firebase.google.com/docs/server/setup)
 * [API Reference](https://firebase.google.com/docs/reference/)
 
-
 ## Adapters
 * [AngularFire](https://github.com/firebase/angularfire)	- The officially supported AngularJS binding for the Firebase Realtime Database and Authentication.
 * [AngularFire2](https://github.com/angular/angularfire2) - The official library for Firebase and Angular 2.
@@ -37,6 +36,8 @@
 * [EmberFire](https://github.com/firebase/emberfire) - The officially supported Ember binding for the Firebase Realtime Database and Authentication.
 * [BackboneFire](https://github.com/firebase/backbonefire)	- The officially supported Backbone binding for the Firebase Realtime Database.
 * [VueFire](https://github.com/vuejs/vuefire) - Vue.js 1 & 2 binding for Firebase 2 & 3
+* [RxFirebase](https://github.com/nmoskalenko/RxFirebase) - RxJava wrapper for Firebase.
+* [RxFirebase2](https://github.com/FrangSierra/Rx2Firebase) - Rxjava 2.0 wrapper for Firebase .
 
 ## Helpers
 * [FirebaseUI for IOS](https://github.com/firebase/FirebaseUI-iOS)	- An open-source library of UI components for various Firebase features.
@@ -120,6 +121,7 @@ In this talk, we take a look at how you can use Firebase to build a real time ap
 
 ## Featured Projects
 * [Firebase Adventures](https://github.com/juarezpaf/firebase-adventures) - Firebase Adventures is a journey about how to use Firebase in different ways to give you the ability to build extraordinary cross-platform apps.
+* [Firestore Cloud Functions In Typescript](https://github.com/FrangSierra/firestore-cloud-functions-typescript) - Firestore cloud functions shows examples about how to get started coding Firebase cloud functions in typescript and Firestore.
 
 ## Who to Follow
 * Firebase [@Firebase](https://twitter.com/firebase)
@@ -127,6 +129,10 @@ In this talk, we take a look at how you can use Firebase to build a real time ap
 * Andrew Lee [@startupandrew](https://twitter.com/startupandrew)
 * Michael McDonald [@asciimike](https://twitter.com/asciimike)
 * Juarez Filho [@juarezpaf](https://twitter.com/juarezpaf)
+* Frank van Puffelen [@puf](https://twitter.com/puf)
+* Laurence Moroney [@lmoroney](https://twitter.com/lmoroney)
+* Abe Haskins [@abeisgreat](https://twitter.com/abeisgreat)
+* Thomas Bouldin [@inlined](https://twitter.com/inlined)
 
 ## Contributing
 Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-firebase/blob/master/CONTRIBUTING.md).
