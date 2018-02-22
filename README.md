@@ -57,6 +57,9 @@
 * [Flashlight](https://github.com/firebase/flashlight) -	A pluggable integration with ElasticSearch to provide advanced content searches in the Firebase Realtime Database.
 * [Firebase Admin](https://firebaseadmin.com/) - Admin User Interface for Firebase
 * [Fireleaves](https://github.com/pguyson/fireleaves) - Firebase Real-time database to mongoDB, useful for backend application for search and summary report from mongoDB.
+* [Firestore Rules Generator](https://scaffoldhub.io/firestore-rules) - Online and visual Firestore Rules scaffold/generator.
+* [Angular Firebase Generator](https://scaffoldhub.io/angular-firebase) - Online and visual Angular 5, Material Design and Firebase (with Firestore) scaffold/generator with CRUDs, authentication, file/image upload, activity log and more.
+* [Vue Firebase Generator](https://scaffoldhub.io/vue-firebase) - Online and visual Vue 2, Element-UI and Firebase (with Firestore) scaffold/generator with CRUDs, authentication, file/image upload, activity log and more.
 
 ## GUI Clients
 * [Firebase Admin](https://firebaseadmin.com) -	A cross platform Firebase management tool with Graphical User Interface for Windows, Mac and Linux.
