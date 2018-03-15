@@ -64,7 +64,8 @@
 
 ## Boilerplates and Starters
 * [react-hot-redux-firebase-starter](https://github.com/douglascorrea/react-hot-redux-firebase-starter) - A Firebase 3.0 Starter for using React Redux it includes React Hot Loader 3.0.
-* [react-firebase-authentication] (https://github.com/zerostatic/react-firebase-authentication) - Starter kit for authentication and real-time database using React and Firebase
+* [react-firebase-authentication](https://github.com/zerostatic/react-firebase-authentication) - Starter kit for authentication and real-time database using React and Firebase
+* [React Starter Kit for Firebase](https://github.com/kriasoft/react-firebase-starter) - Real world React, GraphQL, Relay, Postgres setup for a serverless architecture ([demo](https://firebase.reactstarter.com/)).
 
 ## Newsletter
 * [Best of Firebase](http://bestoffirebase.com/) - The free, monthly curated newsletter of the best Firebase news, articles, projects, and more.
