@@ -128,6 +128,9 @@ In this talk, we take a look at how you can use Firebase to build a real time ap
 * Michael McDonald [@asciimike](https://twitter.com/asciimike)
 * Juarez Filho [@juarezpaf](https://twitter.com/juarezpaf)
 
+## Resources
+* [Curated Firebase learning Resources on Hackr.io](https://hackr.io/tutorials/learn-firebase)
+
 ## Contributing
 Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-firebase/blob/master/CONTRIBUTING.md).
 
