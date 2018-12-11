@@ -57,6 +57,7 @@
 * [Flashlight](https://github.com/firebase/flashlight) -	A pluggable integration with ElasticSearch to provide advanced content searches in the Firebase Realtime Database.
 * [Firebase Admin](https://firebaseadmin.com/) - Admin User Interface for Firebase
 * [Fireleaves](https://github.com/pguyson/fireleaves) - Firebase Real-time database to mongoDB, useful for backend application for search and summary report from mongoDB.
+* [Retool](https://tryretool.com?utm_medium=integration&utm_source=awesome_firebase) - A drag-and-drop UI builder that integrates natively with Firebase, useful for quickly building custom tools on top of your Firebase services. [Details here.](https://tryretool.com/blog/retool-and-firebase/?utm_medium=integration&utm_source=awesome_firebase)
 
 ## GUI Clients
 * [Firebase Admin](https://firebaseadmin.com) -	A cross platform Firebase management tool with Graphical User Interface for Windows, Mac and Linux.
