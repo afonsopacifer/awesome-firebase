@@ -120,6 +120,8 @@ In this talk, we take a look at how you can use Firebase to build a real time ap
 
 ## Featured Projects
 * [Firebase Adventures](https://github.com/juarezpaf/firebase-adventures) - Firebase Adventures is a journey about how to use Firebase in different ways to give you the ability to build extraordinary cross-platform apps.
+* [PriceTrack](https://github.com/duyetdev/pricetrack) - API / Website for E-commerce price tracking. Built with Firebase functions, Firebase hosting and Firestore.
+
 
 ## Who to Follow
 * Firebase [@Firebase](https://twitter.com/firebase)
