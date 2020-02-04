@@ -117,6 +117,7 @@ In this talk, we take a look at how you can use Firebase to build a real time ap
 
 ## Articles
 * [How to CRUD data in Firebase using Ionic Framework](http://javebratt.com/crud-data-in-firebase/?utm_campaign=Best%2Bof%2BFirebase&utm_medium=web&utm_source=Best_of_Firebase_9) - See how to CRUD data in Firebase using Ionic Framework and the AngularFire library, it might seem intimidating at first, but it's actually too easy :)
+* [Free Product Analytics with Firebase + BigQuery + Rakam https://rakam.io/blog/free-product-analytics-with-firebase---bigquery---rakam/](https://rakam.io/blog/free-product-analytics-with-firebase---bigquery---rakam/) - See how you can build a Mixpane/Amplitude alternative with Firebase export for free.
 
 ## Featured Projects
 * [Firebase Adventures](https://github.com/juarezpaf/firebase-adventures) - Firebase Adventures is a journey about how to use Firebase in different ways to give you the ability to build extraordinary cross-platform apps.
